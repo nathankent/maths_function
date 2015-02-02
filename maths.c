@@ -14,4 +14,8 @@ scanf(" %i", &b);
 printf("Addition\n");
 c = a + b;
 printf("\n%i + %i = %i\n", a, b, c);
+
+printf("Multiplication\n");
+c = a * b;
+printf("\n%i * %i = %i\n", a, b , c);
 }
